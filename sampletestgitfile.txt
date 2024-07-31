@@ -1,3 +1,5 @@
 Hello Git ... test file
 
 this is a part of feature_1
+
+this is a part of feature_2 commit
